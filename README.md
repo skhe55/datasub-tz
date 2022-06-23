@@ -31,5 +31,6 @@
 ## Stack
 
 **Client** - *Next Js, MUI*
+
 **Server** - *Nest Js, Mongoose*
 
